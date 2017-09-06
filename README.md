@@ -1,5 +1,7 @@
 # Hello-world
 Yet another repository
+## To-do
+* https://guides.github.com/activities/forking/
 ## Contributing
 1. Fork it ( http://github.com/pedrocaetanos/hello-world/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
