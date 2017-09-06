@@ -1,4 +1,4 @@
-# Hello-world
+# Hello-World
 Yet another repository
 ## To-do
 * https://guides.github.com/activities/forking/
